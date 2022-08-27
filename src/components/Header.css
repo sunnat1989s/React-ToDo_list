@@ -1,0 +1,45 @@
+.todo_list {
+    margin: 100px;
+}
+
+.navbar {
+    padding: 50px !important;
+    background-color: cadetblue;
+}
+.form{
+    color: blue !important;
+    background-color: rgb(138, 195, 197);
+    border-radius: 15px;
+}
+.nav_button{
+    border: none;
+    border-radius: 10px;
+    background-color: blue;
+    color: #fff;
+}
+
+.tr {
+    text-align: center;
+    padding: 20px;
+}
+
+.td_img {
+    background-color: rgb(44, 132, 91) !important;
+}
+
+img {
+    width: 70px;
+    height: 70px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.tr_bottom {
+    text-align: center;
+
+}
+
+.delete_icons {
+    border: none;
+    font-size: 35px;
+}
